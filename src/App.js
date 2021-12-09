@@ -7,7 +7,7 @@ import ResumeSection from './components/ResumeSection';
 function App() {
   // parse all sections from data to list of components
   const parsedSections = resumeData.map((section) => (
-    <ResumeSection {...section} />
+    <ResumeSection key={section.slug} {...section} />
   ));
 
   return (
