@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lhl-react-resume/static/css/main.05593477.chunk.css",
+    "main.js": "/lhl-react-resume/static/js/main.b5b4d402.chunk.js",
+    "main.js.map": "/lhl-react-resume/static/js/main.b5b4d402.chunk.js.map",
+    "runtime-main.js": "/lhl-react-resume/static/js/runtime-main.118bed43.js",
+    "runtime-main.js.map": "/lhl-react-resume/static/js/runtime-main.118bed43.js.map",
+    "static/js/2.8757598d.chunk.js": "/lhl-react-resume/static/js/2.8757598d.chunk.js",
+    "static/js/2.8757598d.chunk.js.map": "/lhl-react-resume/static/js/2.8757598d.chunk.js.map",
+    "static/js/3.002516ef.chunk.js": "/lhl-react-resume/static/js/3.002516ef.chunk.js",
+    "static/js/3.002516ef.chunk.js.map": "/lhl-react-resume/static/js/3.002516ef.chunk.js.map",
+    "index.html": "/lhl-react-resume/index.html",
+    "static/css/main.05593477.chunk.css.map": "/lhl-react-resume/static/css/main.05593477.chunk.css.map",
+    "static/js/2.8757598d.chunk.js.LICENSE.txt": "/lhl-react-resume/static/js/2.8757598d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.118bed43.js",
+    "static/js/2.8757598d.chunk.js",
+    "static/css/main.05593477.chunk.css",
+    "static/js/main.b5b4d402.chunk.js"
+  ]
+}
