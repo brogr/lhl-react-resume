@@ -5,16 +5,17 @@ import Profile from './components/Profile';
 import ResumeSection from './components/ResumeSection';
 
 function App() {
+  // parse all sections from data to list of components
+  const parsedSections = resumeData.map((section) => (
+    <ResumeSection {...section} />
+  ));
+
   return (
     <div className="App">
       <header>
         <Profile {...profileData} />
       </header>
-      <main>
-        <ResumeSection {...resumeData[0]} />
-        <ResumeSection {...resumeData[1]} />
-        <ResumeSection {...resumeData[2]} />
-      </main>
+      <main>{parsedSections}</main>
     </div>
   );
 }
